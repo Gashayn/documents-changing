@@ -8,4 +8,4 @@ folder_path = 'case'
 for paragraph in doc.paragraphs:
         for run in paragraph.runs:
             run.font.name = 'Times New Roman'
-            run.font.size = Pt(14)
+            run.font.size = Pt(14)-00
